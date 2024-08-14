@@ -58,7 +58,7 @@
     "jscodeshift": "0.15.0",
     "klaw": "4.1.0",
     "lodash": "4.17.21",
-    "marked": "4.2.12",
+    "marked": "4.3.0",
     "marked-terminal": "5.2.0",
     "minimatch": "9.0.3",
     "node-fetch": "2.6.7",
