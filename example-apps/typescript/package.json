@@ -14,7 +14,7 @@
     "zapier-platform-core": "15.11.1"
   },
   "devDependencies": {
-    "jest": "^25.5.3",
+    "jest": "^27.0.2",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.13.5",
     "@types/node-fetch": "^2.6.11",
