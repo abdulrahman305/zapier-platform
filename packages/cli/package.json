@@ -77,7 +77,7 @@
     "tmp": "0.2.3",
     "traverse": "0.6.11",
     "update-notifier": "5.1.0",
-    "yeoman-environment": "3.19.3",
+    "yeoman-environment": "4.0.0",
     "yeoman-generator": "5.9.0"
   },
   "devDependencies": {
