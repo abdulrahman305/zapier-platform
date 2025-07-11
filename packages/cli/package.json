@@ -78,7 +78,7 @@
     "traverse": "0.6.11",
     "update-notifier": "5.1.0",
     "yeoman-environment": "3.19.3",
-    "yeoman-generator": "5.9.0"
+    "yeoman-generator": "7.5.0"
   },
   "devDependencies": {
     "@oclif/test": "^4.1.12",
