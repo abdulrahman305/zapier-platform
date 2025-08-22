@@ -4,7 +4,7 @@
  * files, and/or the schema-to-ts tool and run its CLI to regenerate
  * these typings.
  *
- * zapier-platform-schema version: 17.6.0
+ * zapier-platform-schema version: 17.7.0
  *  schema-to-ts compiler version: 0.1.0
  */
 import type {
@@ -1192,6 +1192,9 @@ export interface BasicSearchOperation<
    * methods.
    */
   performGet?: Request | SearchPerformGet<InferInputData<$InputFields>>;
+
+  /** Does this search support pagination? */
+  canPaginate?: boolean;
 
   /** What should the form a user sees and configures look like? */
   inputFields?: $InputFields;

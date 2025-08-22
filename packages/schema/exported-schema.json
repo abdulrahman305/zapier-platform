@@ -1,5 +1,5 @@
 {
-  "version": "17.6.0",
+  "version": "17.7.0",
   "schemas": {
     "AppSchema": {
       "id": "/AppSchema",
@@ -1661,6 +1661,10 @@
               "$ref": "/FunctionSchema"
             }
           ]
+        },
+        "canPaginate": {
+          "description": "Does this search support pagination?",
+          "type": "boolean"
         },
         "inputFields": {
           "description": "What should the form a user sees and configures look like?",
